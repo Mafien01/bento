@@ -139,8 +139,8 @@ const CONFIG = {
 			id: '1',
 			links: [
 				{
-					name: 'Inspirational',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: '',
+					link: 'https://www.twitch.tv/',
 				},
 				{
 					name: 'Classic',
