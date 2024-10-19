@@ -139,7 +139,7 @@ const CONFIG = {
 			id: '1',
 			links: [
 				{
-					name: '',
+					name: 'Twitch',
 					link: 'https://www.twitch.tv/',
 				},
 				{
